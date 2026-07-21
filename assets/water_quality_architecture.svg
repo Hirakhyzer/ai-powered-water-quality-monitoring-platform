@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+  <rect width="1100" height="300" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#0f172a">
+    <rect x="30" y="90" width="150" height="80" rx="14" fill="#dbeafe" stroke="#1d4ed8"/>
+    <text x="55" y="125">Synthetic</text><text x="62" y="148">sensors</text>
+    <rect x="220" y="90" width="150" height="80" rx="14" fill="#dcfce7" stroke="#15803d"/>
+    <text x="250" y="125">Quality</text><text x="250" y="148">readings</text>
+    <rect x="410" y="35" width="170" height="80" rx="14" fill="#fef3c7" stroke="#b45309"/>
+    <text x="440" y="70">Anomaly</text><text x="435" y="93">detection</text>
+    <rect x="410" y="160" width="170" height="80" rx="14" fill="#fee2e2" stroke="#b91c1c"/>
+    <text x="430" y="195">Contamination</text><text x="455" y="218">patterns</text>
+    <rect x="630" y="90" width="170" height="80" rx="14" fill="#ede9fe" stroke="#7c3aed"/>
+    <text x="665" y="125">Treatment</text><text x="685" y="148">risk</text>
+    <rect x="850" y="90" width="210" height="80" rx="14" fill="#e0f2fe" stroke="#0369a1"/>
+    <text x="890" y="125">Review alert</text><text x="895" y="148">signals</text>
+    <path d="M180 130 H220" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M370 130 C390 120 395 90 410 75" stroke="#334155" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+    <path d="M370 130 C390 145 395 180 410 200" stroke="#334155" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+    <path d="M580 75 C610 80 615 100 630 120" stroke="#334155" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+    <path d="M580 200 C610 185 615 160 630 140" stroke="#334155" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+    <path d="M800 130 H850" stroke="#334155" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#334155"/></marker></defs>
+</svg>
